@@ -6,12 +6,12 @@
   <title>Gartenpflege & Gebäudereinigung</title>
   <style>
     body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
-    header { background-color: #2e7d32; color: white; padding: 10px; text-align: center; }
+    header { background-color: #2e7d32; color: white; padding: 15px; text-align: center; }
     nav a { margin: 0 15px; color: white; text-decoration: none; font-weight: bold; }
     .hero { background-color: #c8e6c9; padding: 50px; text-align: center; }
-    section { margin: 30px 0; }
+    section { margin: 40px 0; }
     footer { background-color: #2e7d32; color: white; text-align: center; padding: 15px; }
-    .btn { display: inline-block; padding: 10px 20px; background-color: #388e3c; color: white; text-decoration: none; margin-top: 15px; border-radius: 5px; }
+    .btn { display: inline-block; padding: 12px 25px; background-color: #388e3c; color: white; text-decoration: none; font-weight: bold; border-radius: 5px; }
   </style>
 </head>
 <body>
@@ -26,34 +26,32 @@
 
   <section class="hero">
     <h2>Ihre Experten für Gebäudereinigung & Gartenpflege</h2>
-    <p>Professionelle Dienstleistungen für Ihr Zuhause und Gewerbe.</p>
-    <a href="#contact" class="btn">Jetzt Kontaktieren</a>
+    <p>Professionelle Dienstleistungen für Haus und Gewerbe.</p>
+    <a href="#contact" class="btn">Kontakt aufnehmen</a>
   </section>
 
   <section id="services">
     <h2>Unsere Dienstleistungen</h2>
     <ul>
-      <li>✅ Gebäudereinigung</li>
-      <li>✅ Büro- und Praxisreinigung</li>
-      <li>✅ Fensterreinigung</li>
-      <li>✅ Gartenpflege & Landschaftsbau</li>
+      <li>🏢 Gebäudereinigung</li>
+      <li>🏠 Fenster- und Büroreinigung</li>
+      <li>🌿 Gartenpflege & Landschaftsbau</li>
     </ul>
   </section>
 
   <section id="about">
     <h2>Über Uns</h2>
-    <p>Wir bieten seit vielen Jahren hochwertige Reinigungs- und Gartenpflegedienste in Potsdam und Umgebung an.</p>
+    <p>Wir sind seit vielen Jahren Ihr zuverlässiger Partner für Reinigung und Gartenpflege in Potsdam.</p>
   </section>
 
   <section id="contact">
     <h2>Kontakt</h2>
-    <p>Telefon: +49 176 86644873</p>
-    <p>Email: garten.reinigung.service@gmail.com</p>
+    <p><strong>Telefon:</strong> +49 176 86644873</p>
+    <p><strong>Email:</strong> garten.reinigung.service@gmail.com</p>
   </section>
 
   <footer>
-    <p>&copy; 2025 Gartenpflege & Gebäudereinigung - Alle Rechte vorbehalten.</p>
+    <p>&copy; 2025 Gartenpflege & Gebäudereinigung. Alle Rechte vorbehalten.</p>
   </footer>
 </body>
 </html>
-
